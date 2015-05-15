@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PizzaOrdering</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mad_simple_pizza">MAD Simple Pizza</string>
+    <string name="Email">Email:</string>
+    <string name="Name">Name:</string>
+    <string name="PhoneNo">Phone Number</string>
+    <string name="Address">Address:</string>
+    <string name="title_activity_display_order">DisplayOrder</string>
+
+</resources>
